@@ -1,0 +1,91 @@
+object ConnectionsForm: TConnectionsForm
+  Left = 0
+  Top = 0
+  BorderIcons = [biSystemMenu]
+  Caption = 'Connections'
+  ClientHeight = 187
+  ClientWidth = 238
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  Position = poScreenCenter
+  PixelsPerInch = 96
+  TextHeight = 13
+  object Panel1: TPanel
+    AlignWithMargins = True
+    Left = 3
+    Top = 3
+    Width = 232
+    Height = 181
+    Align = alClient
+    BevelInner = bvLowered
+    Caption = 'Panel1'
+    TabOrder = 0
+    object Label1: TLabel
+      AlignWithMargins = True
+      Left = 11
+      Top = 5
+      Width = 109
+      Height = 13
+      Margins.Left = 9
+      Align = alTop
+      Caption = 'Available IP Addresses'
+    end
+    object Panel2: TPanel
+      AlignWithMargins = True
+      Left = 8
+      Top = 136
+      Width = 216
+      Height = 40
+      Margins.Left = 6
+      Margins.Right = 6
+      Align = alBottom
+      BevelInner = bvLowered
+      TabOrder = 0
+      object buCancel: TButton
+        AlignWithMargins = True
+        Left = 112
+        Top = 7
+        Width = 92
+        Height = 26
+        Margins.Top = 5
+        Margins.Right = 10
+        Margins.Bottom = 5
+        Align = alRight
+        Caption = 'Cancel'
+        ModalResult = 2
+        TabOrder = 0
+      end
+      object Save: TButton
+        AlignWithMargins = True
+        Left = 12
+        Top = 7
+        Width = 92
+        Height = 26
+        Margins.Left = 10
+        Margins.Top = 5
+        Margins.Bottom = 5
+        Align = alLeft
+        Caption = 'Save'
+        ModalResult = 1
+        TabOrder = 1
+      end
+    end
+    object IPList: TListBox
+      AlignWithMargins = True
+      Left = 8
+      Top = 24
+      Width = 216
+      Height = 106
+      Margins.Left = 6
+      Margins.Right = 6
+      Align = alClient
+      ItemHeight = 13
+      TabOrder = 1
+    end
+  end
+end
