@@ -14,16 +14,16 @@ SdFat                       https://github.com/greiman/SdFat<br>
 
 -------------------------------------------------------------------------   
 
-; PlatformIO Project Configuration File
-;
-;   Build options: build flags, source filter
-;   Upload options: custom upload port, speed and extra flags
-;   Library options: dependencies, extra library storages
-;   Advanced options: extra scripting
-;
-; Please visit documentation for the other options and examples
-; https://docs.platformio.org/page/projectconf.html
-
+; PlatformIO Project Configuration File<br>
+;<br>
+;   Build options: build flags, source filter<br>
+;   Upload options: custom upload port, speed and extra flags<br>
+;   Library options: dependencies, extra library storages<br>
+;   Advanced options: extra scripting<br>
+;<br>
+; Please visit documentation for the other options and examples<br>
+; https://docs.platformio.org/page/projectconf.html<br>
+<br>
 [env:upesy_wroom]<br>
 platform = espressif32<br>
 board = upesy_wroom<br>
