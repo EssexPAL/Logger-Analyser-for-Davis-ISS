@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/12/31 23:00:28.000.005,=D:\Delphi\Projects\Unit97.pas</Transaction>
+    <Transaction>2023/05/01 08:25:56.000.170,D:\Delphi\WSLogger\WsIsam.dproj=D:\Delphi\Projects\Project65.dproj</Transaction>
+    <Transaction>2023/06/21 22:18:37.000.713,=D:\Delphi\WSLogger\DLL\Tables.pas</Transaction>
+    <Transaction>2023/06/21 22:21:45.000.609,=D:\Delphi\WSLogger\LoggerLib.pas</Transaction>
+    <Transaction>2023/11/11 08:06:26.000.367,=D:\Delphi\Projects\WSLogger\LoggerClient\Defs.pas</Transaction>
+    <Transaction>2023/11/11 08:12:39.000.630,=D:\Delphi\Projects\WSLogger\Defs\Defs.pas</Transaction>
+    <Transaction>2023/11/11 08:19:05.000.762,=D:\Delphi\Projects\WSLogger\Common\Average.pas</Transaction>
+    <Transaction>2023/11/11 08:19:29.000.356,=D:\Delphi\Projects\WSLogger\Common\Defs.pas</Transaction>
+    <Transaction>2023/11/11 08:30:03.000.278,=D:\Delphi\Projects\WSLogger\Common\ATUtils.pas</Transaction>
+  </Transactions>
+</BorlandProject>
