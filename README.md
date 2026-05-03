@@ -1,4 +1,4 @@
 # Logger-Analyser-for-Davis-ISS
 A datalogger and Analyser for collection and analysis of Davis ISS weather data
 
-![../assets/images/Analyser.png]
+![/main/Analyser.png]
