@@ -4,13 +4,13 @@ are in the 868MHz range and only 5 channels are used, this is different elsewher
 
 Dependencies and PlatformIO.ini
 
-Adafruit BMP280 Library     https://github.com/adafruit/Adafruit_BMP280_Library
-Adafruit BusIO              https://github.com/adafruit/Adafruit_BusIO
-Adafruit Unified Sensor     https://github.com/adafruit/Adafruit_Sensor
-ArduinoJson                 https://github.com/bblanchon/ArduinoJson
-CRC                         https://github.com/RobTillaart/CRC
-NTP Client                  https://github.com/arduino-libraries/NTPClient
-SdFat                       https://github.com/greiman/SdFat
+Adafruit BMP280 Library     https://github.com/adafruit/Adafruit_BMP280_Library<br>
+Adafruit BusIO              https://github.com/adafruit/Adafruit_BusIO<br>
+Adafruit Unified Sensor     https://github.com/adafruit/Adafruit_Sensor<br>
+ArduinoJson                 https://github.com/bblanchon/ArduinoJson<br>
+CRC                         https://github.com/RobTillaart/CRC<br>
+NTP Client                  https://github.com/arduino-libraries/NTPClient<br>
+SdFat                       https://github.com/greiman/SdFat<br>
 
 -------------------------------------------------------------------------   
 
