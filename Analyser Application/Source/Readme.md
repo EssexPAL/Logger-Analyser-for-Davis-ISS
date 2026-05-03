@@ -1,1 +1,1 @@
-Soource files for the Analyser application (Delphi)
+Source files for the Analyser application (Delphi)
