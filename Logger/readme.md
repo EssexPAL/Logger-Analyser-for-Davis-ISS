@@ -30,7 +30,7 @@ configuration commands will be displayed.
   Example (Alaska) Z pool.ntp.org -32400 3600 <br>
 
 
-In order to connect to your wireless network you will need the SSID and Key for your modem or wirless access point.
+In order to connect to your wireless network you will need the SSID and Key for your modem or wireless access point.
 
 Find the SSID and Key and enter:
 
@@ -43,8 +43,9 @@ Now enter
 R Yes
 
 This will cause the ESP32 to reboot.  Watch the bootup information and provided the SSID and key have been correctly entered you should
-see the ESP32 connect to your network and collect the current time.  The only other configuration required is your local timezone.  In the
-UK the offset from UTC (GMT) is zero and the daylight saving time offset (when operating) is 3600.  The DST offset is regarded as 
+see the ESP32 connect to your network and collect the current time.  The only other configuration required is your local timezone.  This 
+configuration sets the NTP serer, your offset from UTC (GMT) and your DST offset during the period when DST is in operation, both are in seconds.
+In the UK the offset from UTC (GMT) is zero and the daylight saving time offset (when operating) is 3600.  The DST offset is regarded as 
 Summer time offset relative to Winter time.
 
 To enter the timezone information for the UK (UTC-0) would be:
