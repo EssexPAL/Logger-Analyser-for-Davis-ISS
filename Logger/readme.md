@@ -1,35 +1,33 @@
-#Configuring the Logger unit
+**Configuring the Logger unit**
 
 Prior to use, the logger unit will require configuration.  Configuration requires that the ESP32 board is connected to a USB of a computer
 and that the computer has a Serial terminal application installed.  The serial terminal can be of any type such as Visual Studio Code or YAT.
 The serial terminal should be configured as 115200 baud, No parity, 8 bit, 1 stop bit and no flow control.  Once  configured and connected, open the
 serial terminal.  This will display text as the ESP32 boots up.  Once the boot process is complete then press ? on the terminal.  The list of
-configuration commands will be displayed. 
+configuration commands will be displayed.
 
- Menu options
+  ?           - Display help<br>
 
-  ?           - Display help
- ---------------------"
-  A           - Show SSID and Key
-  A SSID Key  - Set SSID and Key
-  ---------------------
-  H           - Display Hostname
-  H Hostname  - Set Hostname
-  ---------------------
-  I Yes       - Re-initialise Flash memory
-  Df          - Display flash data
-  Ds          - Display system data
-  Dr          - Display RFM69 registers
-  R Yes       - Restart the ESP
-  ---------------------
-  Z - Set the parameters for your timezone
-  The first parameter is the NTP server address
-  The second parameter is your timezone's offset in seconds from UTC
-  The third parameter is the DST offset in seconds
-  Example (UK) Z pool.ntp.org 0 3600
-  Example (Singapore) Z pool.ntp.org 28800 0
-  Example (Barbados) Z pool.ntp.org -14400 0
-  Example (Alaska) Z pool.ntp.org -32400 3600 
+  A           - Show SSID and Key<br>
+  A SSID Key  - Set SSID and Key<br>
+  
+  H           - Display Hostname<br>
+  H Hostname  - Set Hostname<br>
+  
+  I Yes       - Re-initialise Flash memory<br>
+  Df          - Display flash data<br>
+  Ds          - Display system data<br>
+  Dr          - Display RFM69 registers<br>
+  R Yes       - Restart the ESP<br>
+  
+  Z - Set the parameters for your timezone<br>
+  The first parameter is the NTP server address<br>
+  The second parameter is your timezone's offset in seconds from UTC<br>
+  The third parameter is the DST offset in seconds<br>
+  Example (UK) Z pool.ntp.org 0 3600<br>
+  Example (Singapore) Z pool.ntp.org 28800 0<br>
+  Example (Barbados) Z pool.ntp.org -14400 0<br>
+  Example (Alaska) Z pool.ntp.org -32400 3600 <br>
 
 
 In order to connect to your wireless network you will need the SSID and Key for your modem or wirless access point.
