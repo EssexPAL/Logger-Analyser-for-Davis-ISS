@@ -6,9 +6,9 @@ The serial terminal should be configured as 115200 baud, No parity, 8 bit, 1 sto
 serial terminal.  This will display text as the ESP32 boots up.  Once the boot process is complete then press ? on the terminal.  The list of
 configuration commands will be displayed. 
 
-  ?           - Display help<br>
+  ?            - Display help<br>
 
-  A           - Show SSID and Key<br>
+  A            - Show SSID and Key<br>
   A SSID Key  - Set SSID and Key<br>
   
   H           - Display Hostname<br>
