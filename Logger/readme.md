@@ -4,7 +4,7 @@ Prior to use, the logger unit will require configuration.  Configuration require
 and that the computer has a Serial terminal application installed.  The serial terminal can be of any type such as Visual Studio Code or YAT.
 The serial terminal should be configured as 115200 baud, No parity, 8 bit, 1 stop bit and no flow control.  Once  configured and connected, open the
 serial terminal.  This will display text as the ESP32 boots up.  Once the boot process is complete then press ? on the terminal.  The list of
-configuration commands will be displayed.
+configuration commands will be displayed. 
 
   ?           - Display help<br>
 
