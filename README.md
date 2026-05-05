@@ -2,7 +2,7 @@ A hardware datalogger and Software Data Analyser for Davis ISS weather data<br>
 
 <img width="1202" height="846" alt="WsLogger" src="https://github.com/user-attachments/assets/11bbf9ed-ad7f-4a97-b7ef-37da9e34d851" />
 
-<br><br>An RF data logger for use with a Davis ISS weather station
+<br><br>**An RF data logger for use with a Davis ISS weather station**
 
 The goal of this project is to directly collect data (via RF) from a Davis ISS weather station.  Once the data is collected 
 then it is available for analysis.  The data logging needed to be done in a way which required no modifications or additions
@@ -41,7 +41,7 @@ The logger will require a development environment in order to program the ESP32,
 If you have no desire to delve into the Delphi code then there is an installer which will install the current version.
 The Analyser (WsClient) requires Delphi.
 
-WsClient Installation
+**WsClient Installation**
 
 The WsClientInstaller.exe installation file has been virus checked however the installer was built using Inno Setup installation compiler.  
 This uses LZMA compression which some virus checkers wrongly consider a threat.
