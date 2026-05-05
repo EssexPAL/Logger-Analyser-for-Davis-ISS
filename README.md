@@ -2,8 +2,7 @@ A hardware datalogger and Software Data Analyser for Davis ISS weather data<br>
 
 <img width="1202" height="846" alt="WsLogger" src="https://github.com/user-attachments/assets/11bbf9ed-ad7f-4a97-b7ef-37da9e34d851" />
 
-# Davis-ISS-DataLogger
-An RF data logger for use with a Davis ISS weather station
+##An RF data logger for use with a Davis ISS weather station##
 
 The goal of this project is to directly collect data (via RF) from a Davis ISS weather station.  Once the data is collected 
 then it is available for analysis.  The data logging needed to be done in a way which required no modifications or additions
