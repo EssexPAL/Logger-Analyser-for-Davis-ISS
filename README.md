@@ -8,10 +8,9 @@ The goal of this project is to directly collect data (via RF) from a Davis ISS w
 then it is available for analysis.  The data logging needed to be done in a way which required no modifications or additions
 to the Davis ISS and should be completely automatic.
 
-The project comprises two halves
-  1). Data logger - Uses an ESP32 and implmented using C++.  Collects the RF data from a Davis ISS weather station.
-  
-  2). Data Analyser Application - This runs under Windows 7/8/10/11 and is implemented using Delphi (Pascal).
+The project comprises two halves<br>
+  1). Data logger - Uses an ESP32 and implmented using C++.  Collects the RF data from a Davis ISS weather station.<br>
+  2). Data Analyser Application - This runs under Windows 7/8/10/11 and is implemented using Delphi (Pascal).<br>
 
 **Data Logger** - The data logger collects data directly from the Davis ISS weather station.  It is intended for use on a 
 simple Davis ISS system (ISS and console), the data packets are delivered at 2.56S intervals.  The contents of the packets
