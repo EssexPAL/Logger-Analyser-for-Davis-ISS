@@ -1,4 +1,4 @@
-# logger_analyser_for_davis_iss
+# A logger for Davis ISS weather stations and dowloader and Analyser for the weather data
 
 A hardware datalogger and Software Data Analyser for Davis ISS weather data<br>
 
