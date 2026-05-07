@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="XmUnofTNzsCLNr2UxuP_JRo8TCRMNKEcclvfBACixl4" /><br>
 
-# A logger for Davis ISS weather stations and downloader/Analyser for the weather data<br>
+# A Datalogger for Davis ISS weather stations and downloader/Analyser for the data<br>
 
 <img width="1202" height="846" alt="WsLogger" src="https://github.com/user-attachments/assets/11bbf9ed-ad7f-4a97-b7ef-37da9e34d851" />
 
