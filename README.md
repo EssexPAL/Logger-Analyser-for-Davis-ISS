@@ -1,4 +1,4 @@
-##logger_analyser_for_davis_iss##
+# logger_analyser_for_davis_iss
 
 A hardware datalogger and Software Data Analyser for Davis ISS weather data<br>
 
