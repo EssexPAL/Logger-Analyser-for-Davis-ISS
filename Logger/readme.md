@@ -1,5 +1,6 @@
 **Configuring the Logger unit**
 
+#WARNING Dont attach external power to the ESP32 whilst it is connected to the computers USB.
 Please see the "Logger Configuration Instructions.pdf" for information on making first time settings.
 
 -------------------------------------------------------------------------   
